@@ -16,5 +16,5 @@ Princípios SOLID:
 
 
 Factory Method:
-É um padrão de projetos em que ocorre o uso de uma Superclasse para que sejam criados objetos. Neste padrão de projeto, a factory decide qual instancia utilizar. No meu código, há  há a superclasse FactoryCerveja que instancia os objetos.
+É um padrão de projetos em que ocorre o uso de uma Superclasse para que sejam criados objetos. Neste padrão de projeto, a factory decide qual instancia utilizar. No meu código,  há a superclasse FactoryCerveja que instancia os objetos.
 
